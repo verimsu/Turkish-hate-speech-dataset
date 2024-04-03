@@ -9,7 +9,7 @@ Thses datasets are used in SIU2023-NST and HSD-2Lang competitions.
 https://drive.google.com/drive/folders/1H7-XZE_jKG2JiHPUrEpENAket9yXCZB7?usp=drive_link
 
 # Citation
-"""
+```
 @INPROCEEDINGS{{SIU2023-NST,
   author={Arın, İnanç and Işık, Zeynep and Kutal, Seçilay and Dehghan, Somaiyeh and Özgür, Arzucan and Yanikoğlu, Berrin},
   booktitle={2023 31st Signal Processing and Communications Applications Conference (SIU)}, 
@@ -41,4 +41,4 @@ https://drive.google.com/drive/folders/1H7-XZE_jKG2JiHPUrEpENAket9yXCZB7?usp=dri
   url = "https://aclanthology.org/2024.case-1.6",
   pages = "54--59"
   }
-"""
+```
