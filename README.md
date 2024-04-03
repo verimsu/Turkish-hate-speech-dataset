@@ -1,7 +1,6 @@
 # Hate-speech-detection-dataset
 This repository conatains hate speech detection datasets covering four topics: 
-Immigrants and refugees, Israel-Palestine conflict, Anti-Greek sentiment in Turkey  
-and  Gender issues (Istanbul-Convention). 
+Immigrants and refugees, Israel-Palestine conflict, Anti-Greek sentiment in Turkey and  Gender issues (Istanbul-Convention). 
 
 # Competitons
 Thses datasets are used in SIU2023-NST and HSD-2Lang competitions.
