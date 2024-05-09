@@ -9,6 +9,7 @@ These datasets are used in SIU2023-NST and HSD-2Lang competitions.
 https://drive.google.com/drive/folders/1H7-XZE_jKG2JiHPUrEpENAket9yXCZB7?usp=drive_link
 
 # Citation
+Please cite our papers in your works as follows:
 ```
 @INPROCEEDINGS{{SIU2023-NST,
   author={Arın, İnanç and Işık, Zeynep and Kutal, Seçilay and Dehghan, Somaiyeh and Özgür, Arzucan and Yanikoğlu, Berrin},
