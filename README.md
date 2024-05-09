@@ -41,4 +41,15 @@ https://drive.google.com/drive/folders/1H7-XZE_jKG2JiHPUrEpENAket9yXCZB7?usp=dri
   url = "https://aclanthology.org/2024.case-1.6",
   pages = "54--59"
   }
+
+@inproceedings{dehghan-yanikoglu-2024-lrec,
+  title = "Multi-domain Hate Speech Detection Using Dual Contrastive Learning and Paralinguistic Features",
+  author = "Dehghan, Somaiyeh  and  Yanikoglu, Berrin",
+  booktitle = "",
+  month = May,
+  year = "2024",
+  publisher = "",
+  url = "",
+  pages = ""
+  }
 ```
