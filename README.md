@@ -43,14 +43,15 @@ Please cite our papers in your works as follows:
   pages = "54--59"
   }
 
-@inproceedings{dehghan-yanikoglu-2024-lrec,
-  title = "Multi-domain Hate Speech Detection Using Dual Contrastive Learning and Paralinguistic Features",
-  author = "Dehghan, Somaiyeh  and  Yanikoglu, Berrin",
-  booktitle = "",
-  month = May,
-  year = "2024",
-  publisher = "",
-  url = "",
-  pages = ""
-  }
+@inproceedings{dehghan-yanikoglu-2024-multi-domain,
+    title = "Multi-domain Hate Speech Detection Using Dual Contrastive Learning and Paralinguistic Features",
+    author = "Dehghan, Somaiyeh  and Yan{\i}ko{\u{g}}lu, Berrin",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italy",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1025",
+    pages = "11745--11755"
+}
 ```
