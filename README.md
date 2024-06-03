@@ -1,4 +1,4 @@
-# Hate-speech-detection-dataset
+# Hate-speech-detection-dataset in Turkish
 This repository conatains hate speech detection datasets covering four topics: 
 Immigrants and refugees, Israel-Palestine conflict, Anti-Greek sentiment in Turkey and  Gender issues (Istanbul-Convention). 
 
