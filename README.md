@@ -7,11 +7,11 @@ These datasets are used in SIU2023-NST and HSD-2Lang 2024 competitions.
 
 
 ## Dataset Download Link
-To request access to the dataset, please read and sign the **Data Usage Agreement** and submit your signed copy. Access will be granted upon receipt of the signed agreement.
+To request access to the dataset, please read and sign the **"Data Usage Agreement"** and submit your signed copy. Access will be granted upon receipt of the signed agreement.
 
 Please send your signed copy to this address: so.dehghan87@gmail.com; somaiyeh.dehghan@sabanciuniv.edu
 
-Once the agreement has been submitted, please request the dataset.
+Once the agreement has been submitted, please request the dataset using Dataset Request Link.
 
 **Data Usage Agreement:** https://drive.google.com/file/d/1w-wqCEYqXdvifpwcSOqIosj7_ki_LSv2/view?usp=sharing
 
