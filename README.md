@@ -1,7 +1,6 @@
-## Hate-speech-dataset in Turkish
+## Hate Speech Dataset in Turkish (SU-HS)
 This repository conatains hate speech detection datasets covering four topics: 
 Immigrants and refugees, Israel-Palestine conflict, Anti-Greek sentiment in Turkey and  Gender issues (Istanbul-Convention). 
-
 
 ## Competitons
 These datasets are used in SIU2023-NST and HSD-2Lang 2024 competitions.
