@@ -1,4 +1,4 @@
-# Hate-speech-dataset in Turkish
+## Hate-speech-dataset in Turkish
 This repository conatains hate speech detection datasets covering four topics: 
 Immigrants and refugees, Israel-Palestine conflict, Anti-Greek sentiment in Turkey and  Gender issues (Istanbul-Convention). 
 
@@ -6,14 +6,14 @@ Immigrants and refugees, Israel-Palestine conflict, Anti-Greek sentiment in Turk
 ## Competitons
 These datasets are used in SIU2023-NST and HSD-2Lang 2024 competitions.
 
-# Dataset Download Link
+## Dataset Download Link
 To request access to the dataset, please read and sign the **Data Usage Agreement** and submit your signed copy. Access will be granted upon receipt of the signed agreement.
 https://drive.google.com/file/d/1w-wqCEYqXdvifpwcSOqIosj7_ki_LSv2/view?usp=sharing
 
 
 https://drive.google.com/drive/folders/1H7-XZE_jKG2JiHPUrEpENAket9yXCZB7?usp=drive_link
 
-# Citation
+## Citation
 Please cite our papers in your works as follows:
 ```
 @INPROCEEDINGS{{SIU2023-NST,
