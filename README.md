@@ -65,7 +65,7 @@ Please cite our papers in your works as follows:
     pages = "11745--11755"
 }
 
-@article{AnnotationFocus2025,
+@article{dehghan-AnnotationFocus-2025,
     author = "Somaiyeh Dehghan and Mehmet Umut Sen and Berrin Yanikoglu",
     title = "Dealing with Annotator Disagreement in Hate Speech Classification",
     journal = "arXiv" ,
