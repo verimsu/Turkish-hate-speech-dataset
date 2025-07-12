@@ -21,18 +21,18 @@ Once the agreement has been submitted, please request the dataset using Dataset 
 ## Citation
 Please cite our papers in your works as follows:
 ```
-@INPROCEEDINGS{{SIU2023-NST,
-  author={Arın, İnanç and Işık, Zeynep and Kutal, Seçilay and Dehghan, Somaiyeh and Özgür, Arzucan and Yanikoğlu, Berrin},
-  booktitle={2023 31st Signal Processing and Communications Applications Conference (SIU)}, 
-  title={SIU2023-NST - Hate Speech Detection Contest}, 
-  year={2023},
-  pages={1-4},
-  doi={10.1109/SIU59756.2023.10223800}
+@INPROCEEDINGS{SIU2023-NST,
+  author= "Arın, İnanç and Işık, Zeynep and Kutal, Seçilay and Dehghan, Somaiyeh and Özgür, Arzucan and Yanikoğlu, Berrin"
+  booktitle= "2023 31st Signal Processing and Communications Applications Conference (SIU)", 
+  title= "SIU2023-NST - Hate Speech Detection Contest", 
+  year= "2023",
+  pages= {1-4},
+  doi= {10.1109/SIU59756.2023.10223800}
   }
 
 @inproceedings{uludogan-etal-2024-overview,
   title = "Overview of the Hate Speech Detection in {T}urkish and {A}rabic Tweets ({HSD}-2{L}ang) Shared Task at {CASE} 2024",
-  author = {Uludo{\u{g}}an, G{\"o}k{\c{c}}e  and Dehghan, Somaiyeh  and Arin, Inanc  and Erol, Elif  and Yanikoglu, Berrin  and
+  author = {Uludo{\u{g}}an, G{\"o}k{\c{c}}e  and Dehghan, Somaiyeh  and Arin, Inanc  and Erol, Elif and Yanikoglu, Berrin  and
              {\"O}zg{\"u}r, Arzucan},
   booktitle = "Proceedings of the 7th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE 2024)",
   month = mar,
@@ -55,7 +55,7 @@ Please cite our papers in your works as follows:
 
 @inproceedings{dehghan-yanikoglu-2024-multi-domain,
     title = "Multi-domain Hate Speech Detection Using Dual Contrastive Learning and Paralinguistic Features",
-    author = "Dehghan, Somaiyeh  and Yan{\i}ko{\u{g}}lu, Berrin",
+    author = "Dehghan, Somaiyeh  and Yanikoglu, Berrin",
     booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
     month = may,
     year = "2024",
@@ -66,7 +66,7 @@ Please cite our papers in your works as follows:
 }
 
 @article{dehghan-AnnotationFocus-2025,
-    author = "Somaiyeh Dehghan and Mehmet Umut Sen and Berrin Yanikoglu",
+    author = "Dehghan, Somaiyeh  and  Sen, Memet Umut and Yanikoglu, Berrin",
     title = "Dealing with Annotator Disagreement in Hate Speech Classification",
     journal = "arXiv" ,
     year = 2025,
