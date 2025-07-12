@@ -64,4 +64,13 @@ Please cite our papers in your works as follows:
     url = "https://aclanthology.org/2024.lrec-main.1025",
     pages = "11745--11755"
 }
+
+@article{AnnotationFocus2025,
+    author = "Somaiyeh Dehghan and Mehmet Umut Sen and Berrin Yanikoglu",
+    title = "Dealing with Annotator Disagreement in Hate Speech Classification",
+    journal = "arXiv" ,
+    year = 2025,
+    doi = "https://doi.org/10.48550/arXiv.2502.08266"  
+}
+
 ```
