@@ -73,4 +73,15 @@ Please cite our papers in your works as follows:
     doi = "https://doi.org/10.48550/arXiv.2502.08266"  
 }
 
+inproceedings{hurriyetoglu-etal-2024-concise,
+    title = "A Concise Report of the 7th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text",
+    author = {H{\"u}rriyeto{\u{g}}lu, Ali  and Thapa, Surendrabikram  and Uludo{\u{g}}an, G{\"o}k{\c{c}}e  and Dehghan, Somaiyeh  and Tanev, Hristo},
+    booktitle = "Proceedings of the 7th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE 2024)",
+    month = mar,
+    year = "2024",
+    address = "St. Julians, Malta",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.case-1.34/",
+    pages = "248--255",
+}
 ```
