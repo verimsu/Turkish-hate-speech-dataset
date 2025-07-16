@@ -19,7 +19,7 @@ Once the agreement has been submitted, please request the dataset using Dataset 
 
 
 ## Citation
-We kindly ask that you cite our papers in your work, as listed below:
+We kindly ask that you cite our papers in your works, as listed below:
 ```
 @INPROCEEDINGS{SIU2023-NST,
   author= "Arın, İnanç and Işık, Zeynep and Kutal, Seçilay and Dehghan, Somaiyeh and Özgür, Arzucan and Yanikoğlu, Berrin"
