@@ -9,7 +9,7 @@ These datasets are used in SIU2023-NST and HSD-2Lang 2024 competitions.
 ## Dataset Download Link
 To request access to the dataset, please read and sign the **"Data Usage Agreement"** and submit your signed copy. Access will be granted upon receipt of the signed agreement.
 
-Please send your signed copy to this e-mail address: so.dehghan87@gmail.com; somaiyeh.dehghan@sabanciuniv.edu
+Please send your signed copy to this e-mail address: so.dehghan87@gmail.com;  somaiyeh.dehghan@rumeli.edu.tr;  somaiyeh.dehghan@sabanciuniv.edu
 
 Once the agreement has been submitted, please request the dataset using Dataset Request Link.
 
@@ -70,7 +70,7 @@ We kindly ask that you cite our papers in your works, as listed below:
     title = "Dealing with Annotator Disagreement in Hate Speech Classification",
     journal = "arXiv" ,
     year = 2025,
-    doi = "https://doi.org/10.48550/arXiv.2502.08266"  
+    doi = "https://arxiv.org/abs/2502.08266v2"
 }
 
 inproceedings{hurriyetoglu-etal-2024-concise,
