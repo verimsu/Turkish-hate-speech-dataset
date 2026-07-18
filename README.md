@@ -84,4 +84,12 @@ inproceedings{hurriyetoglu-etal-2024-concise,
     url = "https://aclanthology.org/2024.case-1.34/",
     pages = "248--255",
 }
+
+@article{Dehghan2026,
+    author = "Somaiyeh Dehghan and Gökçe Uludogan and  Mehmet Umut Şen and Elif Erol and Arzucan Özgür and Berrin Yanikoglu",
+    title = "Hate Speech Detection in Turkish and Arabic: A Comprehensive Study",
+    year = 2026,
+    booktitle = "arXiv",
+    note = "Preprint at \url{https://doi.org/10.48550/arXiv.2607.00143}" 
+}
 ```
